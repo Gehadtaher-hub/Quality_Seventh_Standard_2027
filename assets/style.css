@@ -61,3 +61,17 @@ article>i{background:linear-gradient(90deg,#315b88,#FFD700,#7898b7)}
 a:hover{border-color:#FFD700;box-shadow:0 3px 12px #FFD70030}
 a em{color:#E2B900}
 footer{border-top-color:#FFD700;color:#FFF0A6}
+
+/* Darker, richer gold accents */
+:root{--gold:#B8860B;--gold2:#E7C65A}
+header{border-bottom-color:#B8860B}
+header span{border-color:#C79A18;color:#F5DC83}
+.counts{color:#F2D77A}.counts b{color:#D1A51C}
+.tools{border-color:#C7A84A}
+.tools input:focus{border-color:#B8860B;box-shadow:0 0 0 4px #B8860B25}
+button:hover,button.on{border-color:#B8860B;color:#F7E49B}
+article{border-color:#D1B85B}
+article>i{background:linear-gradient(90deg,#315b88,#B8860B,#7898b7)}
+a:hover{border-color:#B8860B;box-shadow:0 3px 12px #B8860B25}
+a em{color:#A77800}
+footer{border-top-color:#B8860B;color:#E7C65A}
